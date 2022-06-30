@@ -29,3 +29,17 @@ Sample data and its output;
 Sample data of ryan and its output as per the format
 
 ![Screenshot 2022-06-30 232146](https://user-images.githubusercontent.com/53118174/176688334-dfef9115-0de4-43b8-a831-a7a2030dbcbd.png)
+
+Step1: When we run the postman's GET method http://localhost:8091/getMonthlyPayslip
+
+we get the desired output based on the GET mapping annotation;
+
+ Spring had only @RequestMapping annotation for mapping all the incoming HTTP 
+ request URLs to the corresponding controller methods.
+ 
+ This Trigger the class where the business logic is being processed and finally the desired output is being displayed.
+ 
+ Docker Image as also been included in this file.
+ 
+ Deployment of this APP using cloud services will be done soon.
+ 
