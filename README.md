@@ -17,7 +17,7 @@ Sample data of ryan and its output as per the format
 
 ![Screenshot 2022-06-30 232146](https://user-images.githubusercontent.com/53118174/176688334-dfef9115-0de4-43b8-a831-a7a2030dbcbd.png)
 
-Step1: When we run the postman's GET method http://localhost:8091/getMonthlyPayslip
+Step1: When we run the postman's GET method 
 
 we get the desired output based on the GET mapping annotation;
 
